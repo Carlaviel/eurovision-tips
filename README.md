@@ -21,10 +21,14 @@ La página principal de la Web sería lo primer que veu una persona quan entra, 
 
 
 4.Web Responsive
+
+
 Per a fer la Web responsive, al haver utilitzat una plantilla d’internet que donava l’opció de tenir ja dins el mètode responsive, vaig agafar aquesta plantilla també per això i per a tenir-ho més fàcil.
 
 
 5.Cartografia
+
+
 La cartografia està feta amb el Qgis, on vaig digitalitzar amb punts quatre llocs on van celebrar el festival, senyalats amb icones de micròfons, i de fons un mapa satel·lital.
 
 
